@@ -4,7 +4,7 @@ A small exercise on Inheritance done in Typescript.
 ### Prerequisite
     Make sure the node is installed on your local machine.
 ## How to run
-`tsc assessment.ts`
+`tsc assessment.ts` <br />
 `node assessment.js`
 
 ## NOTES
